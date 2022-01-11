@@ -1,0 +1,17 @@
+{
+  "name": "apicalls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Api.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "helmet": "^5.0.1",
+    "mongoose": "^6.1.6",
+    "morgan": "^1.10.0"
+  }
+}
